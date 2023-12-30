@@ -14,6 +14,9 @@ This data analysis project aims to provide insights into the sales performance o
 
 -- Add the visuals here --
 
+![Documenting_Example](https://github.com/basunsam/Documentation/assets/92627686/1c211ad3-8039-4311-8e3c-6657f4f95a22)
+
+
 
 ## Data Sources
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
