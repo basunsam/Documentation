@@ -85,3 +85,6 @@ There are still a few outliers even after the omissions but even then we can sti
 3.  Microsoft
 4.  Irene arch
 
+'**bold**
+
+*italics*'
